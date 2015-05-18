@@ -1,0 +1,34 @@
+] path
+---------------
+Paths:
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/bin/" "EXECUTABLE_PATH"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/" "BASE_PATH"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/platform/" "PLATFORM"
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/audio-user interface-hit sound-fluttershy yay hit sound-2011.09.02.vpk
+"mod" "mod" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/audio-user interface-hit sound-fluttershy yay hit sound-2011.09.02.vpk
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/workshop/" "GAME"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/workshop/" "mod"
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_textures.vpk
+"mod" "mod" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_textures.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_vo_english.vpk
+"mod" "mod" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_vo_english.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_misc.vpk
+"mod" "mod" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_sound_misc.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_misc.vpk
+"mod" "mod" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/tf2_misc.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/hl2/hl2_textures.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/hl2/hl2_sound_vo_english.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/hl2/hl2_sound_misc.vpk
+"GAME" "GAME" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/hl2/hl2_misc.vpk
+"PLATFORM" "PLATFORM" (VPK)/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/platform/platform_misc.vpk
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/" "mod"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/" "mod_write"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/" "default_write_path"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/" "GAME"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/" "game_write"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/bin/" "gamebin"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/hl2/" "GAME"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/download/" "GAME"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/download/" "download"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/tf/" "LOGDIR"
+"/home/dylang/.local/share/Steam/steamapps/common/Team Fortress 2/platform/config/" "CONFIG"
